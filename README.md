@@ -97,5 +97,3 @@ I'm always open to meeting developers, sysadmins, and IT engineers — especiall
 # ⭐ Thank you for visiting my profile!
 
 More labs & real-world projects coming soon.
-
-Et je te dirai la prochaine étape pour te faire remarquer.
