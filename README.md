@@ -90,7 +90,7 @@ What I bring:
 
 ## 📬 **Let’s Connect**
 
-I'm always open to meeting developers, sysadmins, and IT engineers — especially in Japan 🇯🇵.
+I'm always open to meeting developers, sysadmins, and IT engineers especially in Japan 🇯🇵.
 
 ---
 
