@@ -1,4 +1,4 @@
-# 👋 Hi, I'm **Paul** — Future Internal IT Engineer in Tokyo (2026)
+# 👋 Hi, I'm **Paul**. Future Internal IT Engineer in Tokyo (2026)
 
 🇫🇷 French IT engineer in training
 🖥️ Passionate about Linux, system security, troubleshooting & automation
