@@ -60,9 +60,9 @@ My work focuses on building <strong>enterprise-style labs</strong>, auditing Lin
 
 ### 💬 Languages
 
-- 🇫🇷 **French** – Native  
-- 🇬🇧 **English** – B2  
-- 🇯🇵 **Japanese** – ~N4, continuing study
+- **French** – Native  
+- **English** – B2, continuing study
+- **Japanese** – ~N4, continuing study
   
 ---
 
