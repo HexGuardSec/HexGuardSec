@@ -55,14 +55,14 @@ My work focuses on building <strong>enterprise-style labs</strong>, auditing Lin
 - Windows sysinternals basics (future lab)
 
 
+<br clear="left"/>
 
 ### 💬 Languages
 
 - 🇫🇷 **French** – Native  
 - 🇬🇧 **English** – B2  
 - 🇯🇵 **Japanese** – ~N4, continuing study
-<br clear="left"/>
-
+- 
 ---
 
 # 📊 GitHub Stats
