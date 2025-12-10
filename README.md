@@ -3,18 +3,13 @@
   <img src="assets/github-banner.png" alt="Paul - Junior Linux & Security Engineer banner" />
 </p>
 
-<div align="center">
-  
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me 
-</div>
-
 <!-- Mascot / decoration -->
 <div>
   <img align="right" width="38%" src="./linux-owl.gif">
 </div>
 
 <!-- Header Name -->
-# <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/smiling-face-with-sunglasses_1f60e.gif" width="32"/> I’m Paul  
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> I'm Paul! 
 *Junior Linux & Security Engineer (Internal IT / SOC-oriented)*
 
 <!-- Intro -->
