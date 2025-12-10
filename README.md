@@ -91,14 +91,7 @@ My work focuses on building <strong>enterprise-style labs</strong>, auditing Lin
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
-<<<<<<< HEAD
 =======
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=HexGuardSec&theme=dark)](https://git.io/streak-stats)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HexGuardSec&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
 
 ---
 
@@ -107,4 +100,3 @@ My work focuses on building <strong>enterprise-style labs</strong>, auditing Lin
 - 🇫🇷 **French** – Native  
 - 🇬🇧 **English** – B2  
 - 🇯🇵 **Japanese** – ~N4, continuing study
->>>>>>> 13ce08fb3baa54ae473e2d3ff92d09553b90dc0d
