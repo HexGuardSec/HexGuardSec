@@ -1,99 +1,181 @@
-# 👋 Hi, I'm **Paul**. Future Internal IT Engineer in Tokyo (2026)
+# 👋 Hi, I'm Paul | Junior Linux & Security Engineer  
+_Aspiring Internal IT Engineer in Tokyo (2026)_
 
-🇫🇷 French IT engineer in training
-🖥️ Passionate about Linux, system security, troubleshooting & automation
-🇯🇵 Preparing to work in **Tokyo** as an Internal IT Engineer (Visa Sponsorship – April/May 2026)
-
----
-
-## 🚀 **Current Mission**
-
-Build a strong technical foundation through hands-on labs, documentation, and real-world simulations in:
-
-* Linux system administration
-* SSH security & hardening
-* Incident response
-* Network troubleshooting
-* Enterprise Samba environments
-* User & permission management
-* Security auditing & log analysis
-
-I publish **every project**, every scenario, and every lesson on GitHub to create a transparent and professional portfolio.
+🔹 Junior Linux administrator & security enthusiast  
+🔹 Building real-world enterprise-style labs  
+🔹 Focused on Internal IT, system hardening, and incident response  
+🔹 Actively training on TryHackMe and building hands-on labs
 
 ---
 
-## 🏗️ **My Main Labs & Projects**
+## 🚀 Current Focus
 
-### 🔐 **linux-system-security-lab**
-
-*Enterprise-grade Linux hardening & auditing scenarios (permissions, SSH, logs, intrusions, fail2ban, unknown services).*
-
-### 🔑 **ssh-hardening-lab**
-
-*Hardened SSH server with key-based auth, custom port, enforced security, and multiple troubleshooting cases.*
-
-### 🛠️ **linux-access-troubleshooting-lab**
-
-*Real-world SSH access failures (invalid shells, missing home, permissions issues, tampered files).*
-
-### 🧑‍💼 **linux-user-management-lab**
-
-*Enterprise-like user, group, sudoers, and ACL management.*
-
-### 🗂️ **samba-enterprise-lab**
-
-*Full Samba server + automated workstation deployment (role-based shares, netplan, users, enterprise workflow).*
-
-### 🎓 **tryhackme-learnings**
-
-*Notes, write-ups, and certificates from TryHackMe (Cyber Security 101, Linux, networking, Wireshark…).*
+- Linux system administration (Ubuntu Server)
+- SSH hardening & secure access control
+- Enterprise troubleshooting (permissions, logs, network issues)
+- Security auditing & incident response
+- Preparing for SOC Level 1 (Blue Team path)
 
 ---
 
-## 📈 **Learning Progress**
+# 🧩 **My Enterprise Labs**
 
-I’m currently studying:
-
-* TryHackMe Cyber Security 101
-* Linux privilege auditing
-* Systemd services enumeration
-* Network analysis (Wireshark, tcpdump, Nmap)
-* Log analysis & incident response
-
-Every week I complete new scenarios and push updates to GitHub.
+All labs simulate **real internal IT environments**, issues, and security investigations exactly what a Junior System/Security Engineer does.
 
 ---
 
-## 🎯 **Goal: Internal IT Engineer in Tokyo**
+## 🔐 **SSH Hardening Lab**
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+![Category](https://img.shields.io/badge/Category-SSH%20Hardening-blue)
+![OS](https://img.shields.io/badge/OS-Ubuntu%2024.04-orange)
 
-I’m actively training to join a major Tokyo company (HENNGE, Rakuten, Mercari, NRI Secure, etc.) in 2026.
+A complete SSH hardening implementation:
+- Key-only authentication (ed25519)
+- Custom port & disabled password login
+- Fail2ban brute-force protection
+- Logging, auditing, and troubleshooting
 
-What I bring:
-
-✔ Strong hands-on practice
-✔ Clear documentation
-✔ Real enterprise-like labs
-✔ High motivation & discipline
-✔ Bilingual progress (English B2 → working, Japanese N4 → improving)
-
----
-
-## 🧰 **Tech Stack**
-
-**Systems:** Ubuntu Server · Kali Linux · Windows Server
-**Security:** SSH · Fail2ban · Logs · Privilege auditing · Permissions
-**Networking:** Netplan · TCP/IP · Ports · Wireshark · Nmap
-**Automation:** Bash scripting · Cron jobs
-**Tools:** Git · GitHub · VirtualBox · TryHackMe
+🔗 **Repo:** `ssh-hardening-lab`
 
 ---
 
-## 📬 **Let’s Connect**
+## 🛡️ **Linux System Security Lab**
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+![Category](https://img.shields.io/badge/Category-Linux%20Security-blue)
+![Audit](https://img.shields.io/badge/Audit-System%20Review-critical)
 
-I'm always open to meeting developers, sysadmins, and IT engineers especially in Japan 🇯🇵.
+Covers:
+- SUID/SGID enumeration
+- Sensitive file audits
+- SSH logs analysis
+- Firewall misconfigurations
+- Unknown port/service detection
+- Privilege escalation attempts
+
+🔗 **Repo:** `linux-system-security-lab`
 
 ---
 
-# ⭐ Thank you for visiting my profile!
+## 🧩 **Linux Access Troubleshooting Lab**
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+![Category](https://img.shields.io/badge/Category-Troubleshooting-blue)
 
-More labs & real-world projects coming soon.
+Covers real-world SSH access issues:
+- Invalid shell
+- Missing home directories
+- Permission errors
+- Incorrect authorized_keys permissions
+- Log-based diagnosis
+
+🔗 **Repo:** `linux-access-troubleshooting-lab`
+
+---
+
+## 🗂️ **Linux User Management Lab**
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+![Category](https://img.shields.io/badge/Category-User%20Management-blue)
+
+Simulates enterprise user administration:
+- User provisioning
+- Group-based access
+- ACL permissions
+- Sudo policy review
+
+🔗 **Repo:** `linux-user-management-lab`
+
+---
+
+## 🗄️ **Samba Enterprise Lab**
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+![Category](https://img.shields.io/badge/Category-File%20Services-blue)
+![MultiVM](https://img.shields.io/badge/Environment-MultiVM-success)
+
+A small enterprise file-sharing environment:
+- 1 Samba server + 2 Linux clients
+- Department-based shared folders
+- Automated workstation setup script
+- Netplan + Samba mount points + users
+
+🔗 **Repo:** `samba-enterprise-lab`
+
+---
+
+## 🚨 **Enterprise Audit & Incident Response Lab** *(In Development)*
+![Status](https://img.shields.io/badge/Status-In%20Progress-orange)
+![Category](https://img.shields.io/badge/Category-Incident%20Response-blue)
+![SOC](https://img.shields.io/badge/SOC-Level%201-yellow)
+
+Real enterprise-style incidents:
+- Sudo access leak  
+- Unknown SSH service  
+- Cron abuse  
+- Permission misconfiguration  
+- Unknown port listener  
+- + More coming
+
+Each incident includes:
+- Detection  
+- Analysis  
+- Fix  
+- Prevention  
+
+🔗 **Repo:** `enterprise-audit-incident-response`
+
+---
+
+## 🎓 **TryHackMe Progress**
+![Status](https://img.shields.io/badge/Platform-TryHackMe-green)
+![Learning](https://img.shields.io/badge/Status-Ongoing-yellow)
+
+Currently completing:
+- Cyber Security 101  
+- SOC Level 1  
+- Linux privesc  
+- Network Security  
+- Web fundamentals  
+
+🔗 **Repo:** `tryhackme-learning`
+
+---
+
+# 🛠️ **Skills & Technologies**
+
+### **Systems & Infrastructure**
+- Ubuntu Server, Debian  
+- SSH, systemctl, journald  
+- UFW firewall  
+- Cron & task automation  
+- Network troubleshooting  
+
+### **Security**
+- Server hardening  
+- Access control & permissions  
+- Log analysis & forensics  
+- SUID/SGID review  
+- Incident response  
+
+### **Tools**
+- Nmap  
+- Wireshark  
+- TCPdump  
+- Git / GitHub  
+- VirtualBox  
+- Bash scripting  
+
+### **Learning**
+- SOC Level 1 (Blue Team track)  
+- Windows Administration Basics  
+
+---
+
+# 🎯 **Goal for 2026**
+Join a Tokyo-based company as a:
+
+**Internal IT Engineer / Linux System Administrator / Security Analyst (Junior)**  
+➡️ Open to full-time positions and long-term relocation  
+➡️ Visa sponsorship welcome  
+
+---
+
+📫 **Contact**  
+Feel free to reach out for collaboration or opportunities.
