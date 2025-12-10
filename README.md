@@ -54,6 +54,13 @@ My work focuses on building <strong>enterprise-style labs</strong>, auditing Lin
 - Blue Team / SOC Level 1 fundamentals  
 - Windows sysinternals basics (future lab)
 
+
+
+### 💬 Languages
+
+- 🇫🇷 **French** – Native  
+- 🇬🇧 **English** – B2  
+- 🇯🇵 **Japanese** – ~N4, continuing study
 <br clear="left"/>
 
 ---
@@ -86,11 +93,6 @@ My work focuses on building <strong>enterprise-style labs</strong>, auditing Lin
 
 </div>
 
-### 💬 Languages
-
-- 🇫🇷 **French** – Native  
-- 🇬🇧 **English** – B2  
-- 🇯🇵 **Japanese** – ~N4, continuing study
 ---
 
 <p align="center">
