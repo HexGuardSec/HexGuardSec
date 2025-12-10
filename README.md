@@ -10,7 +10,7 @@
 
 <!-- Mascot / decoration -->
 <div>
-  <img align="right" width="38%" src="./linux-owl.png">
+  <img align="right" width="38%" src="./linux-owl.gif">
 </div>
 
 <!-- Header Name -->
@@ -75,7 +75,6 @@ My work focuses on building <strong>enterprise-style labs</strong>, auditing Lin
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HexGuardSec&theme=tokyo-night)
 
-![snake gif](https://github.com/HexGuardSec/HexGuardSec/gifs/github-contribution-grid-snake-dark.svg)
 ---
 
 # 🤝 Connect with Me
