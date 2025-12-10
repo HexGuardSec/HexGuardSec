@@ -2,6 +2,12 @@
 <p align="center">
   <img src="assets/github-banner.png" alt="Paul - Junior Linux & Security Engineer banner" />
 </p>
+
+<div align="center">
+  
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me 
+</div>
+
 <!-- Mascot / decoration -->
 <div>
   <img align="right" width="38%" src="./linux-owl.png">
@@ -69,7 +75,7 @@ My work focuses on building <strong>enterprise-style labs</strong>, auditing Lin
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HexGuardSec&theme=tokyo-night)
 
-
+![snake gif](https://github.com/HexGuardSec/HexGuardSec/gifs/github-contribution-grid-snake-dark.svg)
 ---
 
 # 🤝 Connect with Me
