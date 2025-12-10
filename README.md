@@ -170,9 +170,7 @@ Notes & summaries from completed rooms:
   <img src="https://github-readme-stats.vercel.app/api?username=HexGuardSec&show_icons=true&theme=tokyonight&count_private=true" alt="Paul's GitHub stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HexGuardSec&theme=tokyonight" alt="GitHub streak" />
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=HexGuardSec&theme=dark)](https://git.io/streak-stats)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HexGuardSec&layout=compact&theme=tokyonight" alt="Top Languages" />
