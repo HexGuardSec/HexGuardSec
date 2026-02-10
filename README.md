@@ -14,7 +14,7 @@
 
 <!-- Intro -->
 <p align="left">
-I am a Junior Linux & Security Engineer currently preparing for my relocation to <strong>Tokyo in April 2026</strong> under a Working Holiday Visa, with the goal of transitioning to a <strong>work visa</strong> through an Internal IT / Security role.
+I am a Junior Linux & Security Engineer currently preparing for my relocation to <strong>Tokyo in July 2026</strong> under a Working Holiday Visa, with the goal of transitioning to a <strong>work visa</strong> through an Internal IT / Security role.
 <br><br>
 My work focuses on building <strong>enterprise-style labs</strong>, auditing Linux systems, hardening servers, analyzing incidents, and troubleshooting real internal IT scenarios.
 </p>
