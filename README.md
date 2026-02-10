@@ -22,7 +22,7 @@ My work focuses on building <strong>enterprise-style labs</strong>, auditing Lin
 - ✨ Passionate about Linux, security, and enterprise troubleshooting  
 - 🌱 Currently training full-time (labs + TryHackMe Blue Team + SOC concepts)  
 - 🖥️ Building realistic IT incidents & documentation on GitHub  
-- 🇯🇵 Preparing move to Japan — JLPT N4, aiming N3  
+- 🇯🇵 Preparing move to Japan JLPT N4, aiming N3  
 - 🎯 Career goal: **Internal IT / System Administrator / Security Engineer** in Tokyo  
 - 🔗 Connect with me on LinkedIn!
 
