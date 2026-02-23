@@ -14,7 +14,7 @@
 
 <!-- Intro -->
 <p align="left">
-I’m Paul, an IT Infrastructure and Operations technician focused on hands-on labs in Windows Server, Active Directory, system deployment, and hardware troubleshooting.Currently preparing to relocate to <strong>Tokyo (July 2026)</strong> with a focus on Data Center Operations, IT Infrastructure, and Technical Support roles.
+I’m Paul, an IT Infrastructure and Operations technician focused on hands-on labs in Windows Server, Active Directory, system deployment, and hardware troubleshooting. Currently preparing to relocate to <strong>Tokyo (July 2026)</strong> with a focus on Data Center Operations, IT Infrastructure, and Technical Support roles.
 <br><br>
 My work includes building <strong>enterprise-style environments</strong>, simulating real IT operations scenarios, and strengthening troubleshooting methodology across Windows and Linux systems.
 </p>
