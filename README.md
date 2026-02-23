@@ -19,11 +19,11 @@ I’m Paul, an IT Infrastructure and Operations technician focused on hands-on l
 My work includes building <strong>enterprise-style environments</strong>, simulating real IT operations scenarios, and strengthening troubleshooting methodology across Windows and Linux systems.
 </p>
 
-- ✨ Passionate about Linux, security, and enterprise troubleshooting  
-- 🌱 Currently training full-time (labs + TryHackMe Blue Team + SOC concepts)  
-- 🖥️ Building realistic IT incidents & documentation on GitHub  
-- 🇯🇵 Preparing move to Japan JLPT N4, aiming N3  
-- 🎯 Career goal: **Internal IT / System Administrator / Security Engineer** in Tokyo  
+- ✨ Passionate about hardware, IT infrastructure, and enterprise troubleshooting
+- ⚙️ Developing structured IT operations and incident response workflows
+- 🖥️ Building realistic Windows Server & Active Directory lab environments 
+- 🇯🇵  Preparing relocation to Tokyo (JLPT N4, aiming N3)
+- 🎯 Career goal: IT Infrastructure / Technical Support / Data Center Operations in Tokyo
 - 🔗 Connect with me on LinkedIn!
 
 ---
