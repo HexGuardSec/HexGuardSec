@@ -10,13 +10,13 @@
 
 <!-- Header Name -->
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> I'm Paul! 
-*Junior Linux & Security Engineer (Internal IT / SOC-oriented)*
+*IT Infrastructure & Operations Technician | Windows & Linux Labs | Data Center & Support Focus*
 
 <!-- Intro -->
 <p align="left">
-I am a Junior Linux & Security Engineer currently preparing for my relocation to <strong>Tokyo in July 2026</strong> under a Working Holiday Visa, with the goal of transitioning to a <strong>work visa</strong> through an Internal IT / Security role.
+I’m Paul, an IT Infrastructure and Operations technician focused on hands-on labs in Windows Server, Active Directory, system deployment, and hardware troubleshooting.Currently preparing to relocate to <strong>Tokyo (July 2026)</strong> with a focus on Data Center Operations, IT Infrastructure, and Technical Support roles.
 <br><br>
-My work focuses on building <strong>enterprise-style labs</strong>, auditing Linux systems, hardening servers, analyzing incidents, and troubleshooting real internal IT scenarios.
+My work includes building <strong>enterprise-style environments</strong>, simulating real IT operations scenarios, and strengthening troubleshooting methodology across Windows and Linux systems.
 </p>
 
 - ✨ Passionate about Linux, security, and enterprise troubleshooting  
@@ -43,17 +43,16 @@ My work focuses on building <strong>enterprise-style labs</strong>, auditing Lin
 </picture>
 
 ### 🔧 Current Focus
-- Advanced Linux system administration (Ubuntu Server)
-- SSH security (keys-only, fail2ban, auditing)
-- Log analysis & security incident response
-- File services (Samba enterprise-style)
-- SOC fundamentals (threat detection, alerts, reconnaissance)
+- Windows Server & Active Directory (enterprise lab simulation)
+- System deployment & troubleshooting workflows
+- Hardware diagnostics & infrastructure operations
+- Basic networking & DNS configuration
+- Structured incident handling (real-world IT scenarios)
 
 ### 📚 Currently Learning
-- Linux security monitoring  
-- Network traffic analysis (Wireshark, tcpdump, Nmap)  
-- Blue Team / SOC Level 1 fundamentals  
-- Windows sysinternals basics (future lab)
+- Linux system administration (Ubuntu)
+- SSH hardening & log analysis
+- Network troubleshooting tools
 
 
 <br clear="left"/>
